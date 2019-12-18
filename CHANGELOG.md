@@ -10,4 +10,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - add CHANGELOG.md
 - add cucumber testing with features and Gemfile and ignore test output files
--
+- add support form simplesaml federated login - private/simplesaml for customized code, symlinks to from vendor/simplesamlphp
