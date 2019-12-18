@@ -9,3 +9,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [v1.0.0] - 12-18-2019
 ### Added
 - add CHANGELOG.md
+- add cucumber testing with features and Gemfile and ignore test output files
+-
