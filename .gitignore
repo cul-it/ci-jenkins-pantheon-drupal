@@ -2,6 +2,9 @@
 ### GitHub repository .gitignore section
 ###
 
+# Ignore cucumber/capybara output
+capybara-*.html
+
 # Ignore files only needed on CI
 .bashrc
 
